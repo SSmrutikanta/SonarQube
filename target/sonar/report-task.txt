@@ -1,6 +1,6 @@
-projectKey=org.example:SonarQubeDemo
+projectKey=maven-project
 serverUrl=http://localhost:9000
-serverVersion=9.1.0.47736
-dashboardUrl=http://localhost:9000/dashboard?id=org.example%3ASonarQubeDemo
-ceTaskId=AXwhKm-nUM_j3rC6oO-3
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AXwhKm-nUM_j3rC6oO-3
+serverVersion=10.1.0.73491
+dashboardUrl=http://localhost:9000/dashboard?id=maven-project
+ceTaskId=AYm07DwvRunLMpJM_Fij
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYm07DwvRunLMpJM_Fij
